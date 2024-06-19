@@ -45,18 +45,22 @@ python snakegame.py
 Navigate the snake to collect food, which increases the snake's length. Avoid colliding with the walls or the snake's own body.
 
 ## Configuration
+
 - **Window Size:** 800x800 pixels
--**Snake Block Size:** 20x20 pixels
--**Food Color:** Red
--**Snake Head Color:** Light Green
--**Snake Body Color:** Dark Green
--**Background Color:** Black
+- **Snake Block Size:** 20x20 pixels
+- **Food Color:** Red
+- **Snake Head Color:** Light Green
+- **Snake Body Color:** Dark Green
+- **Background Color:** Black
   
 Settings can be adjusted in the code towards your preference
 
 ## Contact Information
+
 Author: Kameron Benjamin
+
 Email: kameron1.benjamin@famu.edu
+
 GitHub: kam-ctrl
 
 
