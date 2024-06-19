@@ -6,7 +6,7 @@ This project is a classic Snake game implemented using Python and the Pygame lib
 1. [Installation](#Installation)
 2. [Usage](#Usage)
 3. [Configuration](#Configuration)
-4. [Contact Information](#Contact Information)
+4. [Contact Information](#ContactInformation)
 
 ## Installation
 ### Prerequisites
